@@ -19,4 +19,4 @@ Resultaten visar att JPEG XL överträffar AVIF i bildkvalitet för mörka scene
 ### Diskussion
 Studien belyser behovet av att balansera bildkvalitet och filstorlek beroende på användarens krav. Begränsningar inkluderar antalet testfall och den specifika hårdvara som användes. Vidare forskning bör undersöka fler scenarier och kombinera objektiva mätvärden med subjektiva användarupplevelser för att ge en mer heltäckande bild av algoritmernas prestanda.
 
-📄 [Ladda ner uppsatsen som PDF](./Uppsats.pdf)
+📄 [Till uppsatsen](./Uppsats.pdf)
