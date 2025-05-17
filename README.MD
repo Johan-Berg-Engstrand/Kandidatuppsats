@@ -1,5 +1,6 @@
 # JPEG XL vs. AVIF
-Kandidatexamensarbete i Datavetenskap, Höstterminen 2024
+Kandidatexamensarbete i Datavetenskap, 
+Höstterminen 2024,
 Institutionen för Data- och Systemvetenskap
 
 # Sammanfattning
